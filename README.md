@@ -1,0 +1,2 @@
+# Fantasy-Basketball
+ ur  goal  was to use statistical learning to outperform the other teams in our league. We  focused on using  predictive models that would be beneficial in playing fantasy basketball . We assumed the  2017 season  was about to begin and each team  needs  to select their players through a draft where each team will select 10 players in sequence.  We wanted to predict based on 2015 and 2016 data how well they will play in the 2017 season. We were  tasked  with building predictive models to help us make better decisions in our draft. 
